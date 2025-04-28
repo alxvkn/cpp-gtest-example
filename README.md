@@ -1,6 +1,6 @@
 # Building and running
-## Requirements
-- CMake
+Prerequisites:
+- CMake (for googletest)
 - GNU Make
 ```sh
 git clone --recursive https://github.com/alxvkn/cpp-gtest-example
